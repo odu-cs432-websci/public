@@ -38,7 +38,7 @@ Make sure that these are plain-text documents and that they do not include HTML 
 Upload your datasets to your GitHub repo. *Please do not include emails that contain sensitive information.*
 
 ### Q2. Naive Bayes classifier
-Use the provided example code (see https://github.com/cs432-websci-fall20/assignments/blob/master/432_PCI_Ch06.ipynb) to train and test the Naive Bayes classifier.  Use your *Training* dataset to train the Naive Bayes classifier.  Use your *Testing* dataset to test the Naive Bayes classifier and report the classification results for each email message in the *Testing* dataset.
+Use the provided example code (see  [432_PCI_Ch06.ipynb](432_PCI_Ch06.ipynb)) to train and test the Naive Bayes classifier.  Use your *Training* dataset to train the Naive Bayes classifier.  Use your *Testing* dataset to test the Naive Bayes classifier and report the classification results for each email message in the *Testing* dataset.
 
 ### Q3. Confusion Matrix
 Draw a confusion matrix for your classification results (see [Week-13 Document Filtering](https://docs.google.com/presentation/d/1TgSeYh7gjpxl8f_9-FKG7MnXG1HI_iwH_KDFyUgKlWU/edit?usp=sharing), slides 40, 42, 43).
