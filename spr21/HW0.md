@@ -105,9 +105,9 @@ Two tools that you'll use this semester are [Memgator](https://github.com/oduwsd
 Download and install a local version of Memgator
 * Go to the Releases page in the repository, https://github.com/oduwsdl/MemGator/releases
 * Scroll down to the "Assets" section.  Click the triangle icon to expand the list.  Choose the executable that matches your OS.
-** -darwin is for MacOS
-** -386 is for 32-bit architectures (older machines)
-** -amd64 is for 64-bit architectures (newer machines)
+  * -darwin is for MacOS
+  * -386 is for 32-bit architectures (older machines)
+  * -amd64 is for 64-bit architectures (newer machines)
 
 Memgator is a command-line tool, so you will need to run it from Terminal (for MacOS) or PowerShell (for Windows).  You may need to set the permissions to executable before it will run.
 * MacOS: If you get a security pop-up the first time you run it, open Finder to where you've installed it.  Right-click on memgator and choose Open.  Then you'll be able to select 'Open' from the pop-up.  Once you've done that, you'll be able to run it from the command line.
