@@ -135,7 +135,7 @@ Memgator is a command-line tool, so you will need to run it from Terminal (for M
 
 Apply for a [Twitter Developer Account](https://developer.twitter.com/en/apply-for-access).  The form will ask for a reason and just state that you're using this for a class project and that data will not be shared publicly.
 
-Download the test file [collect-tweets.py](collect-tweets.py) and insert your API keys in the `OAuthHandler()` and `set_access_token()` functions.
+Download the test file [collect-tweets.py](collect-tweets.py) and insert your API keys in the `consumer_key` and `consumer_secret` variables.
 
 **Q10.** Use `collect-tweets.py` to collect tweets:
 * a) tweets related to 'coronavirus' (`python3 collect-tweets.py > coronavirus-tweets.json`)
