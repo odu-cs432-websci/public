@@ -4,4 +4,6 @@ Public repo for homework assignments, tutorials, and associated files for [CS 43
 
 ## Assignments
 
+[HW0](HW0.md) - Course Setup (*optional, recommended due Jan 19, Week 1*)
+
 ## Tutorials / Lab Exercises
