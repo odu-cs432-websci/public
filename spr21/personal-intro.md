@@ -24,14 +24,14 @@ I also encourage you to post early, read your classmates' entries, and reply to 
 
 Login to our Piazza site (link in Blackboard) and set up your account (click the Gear and then Account/Email Settings), including a picture.  This will only be visible to students in our class.
 
-Create a new Note post (*not reply*) in the `discussion-questions/module1` folder to provide your introduction.  Put your name as the "Summary" line. I've already added my introduction as an example for you. 
+Create a new Note post (*not reply*) in the `discussion-questions/module1` folder to provide your introduction (note that this folder isn't shown in the image below).  Put your name as the "Summary" line. I've already added my introduction as an example for you. 
 
 We will be using Markdown a good bit this semester, so I encourage you to format your introduction using this markup style for practice. Click the "Markdown editor" radio button in the Details section of the Piazza Note editor.  
 
-![](piazza-personal-intro-post.png)
+![](../piazza-personal-intro-post.png)
 
 Click the "Preview Post" link to see a preview (example of the preview pop-up below).  
-![](piazza-preview.png)
+![](../piazza-preview.png)
 
 When you're happy with how your post will look, click "Post My Note to CS 432/532!" 
  
