@@ -4,7 +4,7 @@
 
 This is an *optional, but highly recommended* assignment. It will cover the necessary steps to get set up for the semester.  There is nothing to submit, but there are review questions listed so that you can assess your own understanding.
 
-*For this assignment only -- you may ask others in the class for help with these setup tasks. Please use Piazza and post in the `homework` folder for these questions so that others may benefit from the answers.* 
+*For this assignment only -- you may ask others in the class for help with these setup tasks. Please use Piazza and post in the `homework/hw0` folder for these questions so that others may benefit from the answers.* 
 
 ## ODU-CS Linux
 
