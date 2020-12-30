@@ -1,6 +1,6 @@
 # Homework 0: Course Setup
 
-**Recommended Due Date:** Tuesday, January 19, 2021 
+**Recommended Due Date:** Sunday, January 24, 2021 
 
 This is an *optional, but highly recommended* assignment. It will cover the necessary steps to get set up for the semester.  There is nothing to submit, but there are review questions listed so that you can assess your own understanding.
 
