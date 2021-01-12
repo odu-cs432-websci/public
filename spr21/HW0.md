@@ -140,3 +140,15 @@ Download the test file [collect-tweets.py](collect-tweets.py) and insert your AP
 **Q10.** Use `collect-tweets.py` to collect tweets:
 * a) tweets related to 'coronavirus' (`python3 collect-tweets.py > coronavirus-tweets.json`)
 * b) tweets related to 'ODU' (`python3 collect-tweets.py ODU > ODU-tweets.json`)
+
+## The Missing Semester of Your CS Education
+
+From: https://missing.csail.mit.edu/about/
+> Over the years, we have helped teach several classes at MIT, and over and over we have seen that many students have limited knowledge of the tools available to them. ... These topics are not taught as part of the university curriculum: students are never shown how to use these tools, or at least not how to use them efficiently, and thus waste time and effort on tasks that *should* be simple. The standard CS curriculum is missing critical topics about the computing ecosystem that could make students’ lives significantly easier.  
+
+MIT has provided an excellent resource, [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/), for learning about the command-line, version control (like Git), and many other essential Unix-based tools that probably haven't been covered in your formal coursework.  This is organized as a course, with video lectures, webpages of notes and examples, and suggested exercises.  All of it is freely available.  If you don't have much Unix experience, this is *highly recommended*.  In particular, I recommend the following modules:
+* Course overview + the shell
+* Shell Tools and Scripting
+* Editors (Vim)
+* Data Wrangling -- *in particular, this module will save you a **ton** of time this semester when processing data*
+* Version Control (Git)
