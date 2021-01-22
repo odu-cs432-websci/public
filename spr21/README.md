@@ -6,4 +6,6 @@ Public repo for homework assignments, tutorials, and associated files for [CS 43
 
 [HW0](HW0.md) - Course Setup (*optional, recommended due Jan 19, Week 1*)
 
+[HW1](HW1.md) - Web Science Intro, due Feb 7, Week 4
+
 ## Tutorials / Lab Exercises
