@@ -29,7 +29,7 @@ For several of the programming tasks this semester, you will be asked to write c
 
 ## Assignment
 
-Write a report that answers the following questions.  Make sure to include a description of how you addressed the questions and any interesting findings that you discover from your analysis.  
+Write a report that answers and *explains how you arrived at the answers* to the following questions.  Make sure to include any interesting findings that you discover from your analysis.  
 
 Your GitHub repo should include all scripts, code, output files, images needed to complete the assignment.
 
