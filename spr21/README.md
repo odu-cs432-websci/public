@@ -8,4 +8,6 @@ Public repo for homework assignments, tutorials, and associated files for [CS 43
 
 [HW1](HW1.md) - Web Science Intro, due Feb 7, Week 4
 
+[HW2](HW2.md) - Web Archiving, due Feb 28, Week 7
+
 ## Tutorials / Lab Exercises
