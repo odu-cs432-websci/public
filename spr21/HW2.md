@@ -114,6 +114,8 @@ Create a table showing how many URI-Rs have certain number of mementos.  For exa
 
 If you are using LaTeX, you should create a [LaTeX table](https://www.overleaf.com/learn/latex/tables) -- don't submit a spreadsheet or image of a table created in something else.  If you are using Markdown, view the source of this file for an example of how to generate a table.
 
+This scatterplot should be created using either R or Python, not Excel.
+
 *What URI-Rs had the most mementos?  Did that surprise you?*
 
 ### Q3
