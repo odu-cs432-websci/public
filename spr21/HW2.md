@@ -130,8 +130,6 @@ Create a table showing how many URI-Rs have certain number of mementos.  For exa
 
 If you are using LaTeX, you should create a [LaTeX table](https://www.overleaf.com/learn/latex/tables) -- don't submit a spreadsheet or image of a table created in something else.  If you are using Markdown, view the source of this file for an example of how to generate a table.
 
-This scatterplot should be created using either R or Python, not Excel.
-
 *What URI-Rs had the most mementos?  Did that surprise you?*
 
 ### Q3
@@ -139,6 +137,8 @@ This scatterplot should be created using either R or Python, not Excel.
 For each of the URI-Rs from Q2 that had > 0 mementos, use the saved TimeMap to determine the datetime of the earliest memento. 
 
 Create a scatterplot with the age of each URI-R (days between collection date and earliest memento datetime) on the x-axis and number of mementos for that URI-R on the y-axis.  For this graph, the item is the URI-R and the attributes are the estimated age of the URI-R and the number of mementos for that URI-R.
+
+This scatterplot should be created using either R or Python, not Excel.
 
 *What can you say about the relationship between the age of a URI-R and the number of its mementos?*
 
