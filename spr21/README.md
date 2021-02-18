@@ -10,6 +10,8 @@ Public repo for homework assignments, tutorials, and associated files for [CS 43
 
 [HW2](HW2.md) - Web Archiving, due Feb 28, Week 7
 
+[HW3](HW3.md) - Ranking Webpages, due Mar 7, Week 8
+
 ## Tutorials / Lab Exercises
 
 [Python Google Colab notebook](https://colab.research.google.com/github/cs432-websci-master/public/blob/main/Mod_02_Python.ipynb)
