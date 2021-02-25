@@ -12,6 +12,8 @@ Public repo for homework assignments, tutorials, and associated files for [CS 43
 
 [HW3](HW3.md) - Ranking Webpages, due Mar 7, Week 8
 
+[HW4](HW4.md) - Exploring Social Networks, due Mar 14, Week 9
+
 ## Tutorials / Lab Exercises
 
 [Python Google Colab notebook](https://colab.research.google.com/github/cs432-websci-master/public/blob/main/Mod_02_Python.ipynb)
