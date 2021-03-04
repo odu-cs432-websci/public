@@ -10,11 +10,9 @@ from boilerpy3 import extractors
 
 # % python3 boiler-test.py < test.html > test.txt
 
-# settings to avoid UnicodeDecodeError
-# if you get "AttributeError: '_io.TextIOWrapper' object has no attribute 'reconfigure'"
-# comment out these lines
-sys.stdin.reconfigure(encoding='utf-8')
-sys.stdout.reconfigure(encoding='utf-8')
+# If you get UnicodeDecodeError, uncomment these lines
+#sys.stdin.reconfigure(encoding='utf-8')
+#sys.stdout.reconfigure(encoding='utf-8')
 
 # read in entire input into a string
 text = sys.stdin.read()
