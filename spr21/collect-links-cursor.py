@@ -1,6 +1,7 @@
 # collect-links-cursor.py
-# MCW - 2/11/2021
+# MCW - 2/11/2021 / mperry - 3/10/2021
 import sys
+import json
 import tweepy
 
 # use coronavirus as default search term unless one provided
@@ -12,9 +13,15 @@ if len(sys.argv) > 1:
 MAX_COUNT = 1200
 count = 0
 
-# OAuth2 procedure
-consumer_key = ""      # INSERT YOUR KEY HERE
-consumer_secret = ""   # INSERT YOUR KEY HERE
+# load Twitter API keys from a file so they're not hard-coded
+with open("secrets.json", "r") as secretsFile:
+    secrets = json.load(secretsFile)
+# print(secrets['consumer_key'])
+# print(secrets['consumer_secret'])
+
+# setup Twitter API with OAuth2 procedure
+consumer_key = secrets['consumer_key']
+consumer_secret = secrets['consumer_secret']
 auth = tweepy.AppAuthHandler(consumer_key, consumer_secret)
 api = tweepy.API(auth)
 
