@@ -1,2 +1,3 @@
+# Save this file as .gitignore in your local repo
 # Ignore file 'secrets.json' in all directories
 **/secrets.json
