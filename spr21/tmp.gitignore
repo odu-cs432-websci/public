@@ -1,0 +1,2 @@
+# Ignore file 'secrets.json' in all directories
+**/secrets.json
