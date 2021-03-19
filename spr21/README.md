@@ -16,7 +16,7 @@ Public repo for homework assignments, tutorials, and associated files for [CS 43
 
 [HW5](HW5.md) - Graph Partitioning, due Mar 28, Week 11
 
-[HW6](Hw6.md) - Analyzing Disinformation Domains, due Apr 4, Week 12
+[HW6](HW6.md) - Analyzing Disinformation Domains, due Apr 4, Week 12
 
 ## Tutorials / Lab Exercises
 
