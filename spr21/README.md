@@ -14,6 +14,10 @@ Public repo for homework assignments, tutorials, and associated files for [CS 43
 
 [HW4](HW4.md) - Exploring Social Networks, due Mar 14, Week 9
 
+[HW5](HW5.md) - Graph Partitioning, due Mar 28, Week 11
+
+[HW6](Hw6.md) - Analyzing Disinformation Domains, due Apr 4, Week 12
+
 ## Tutorials / Lab Exercises
 
 [Python Google Colab notebook](https://colab.research.google.com/github/cs432-websci-master/public/blob/main/Mod_02_Python.ipynb)
