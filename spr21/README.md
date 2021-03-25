@@ -27,3 +27,7 @@ Public repo for homework assignments, tutorials, and associated files for [CS 43
 [InfoVis in R Google Colab notebook](https://colab.research.google.com/github/cs432-websci-master/public/blob/main/Mod_03_InfoVis_R.ipynb)
 
 [InfoVis in Python Google Colab notebook](https://colab.research.google.com/github/cs432-websci-master/public/blob/main/Mod_03_InfoVis_Python.ipynb)
+
+[NetworkX example notebook](https://colab.research.google.com/github/cs432-websci-master/public/blob/main/432_NetworkX_example.ipynb)
+
+[PCI Ch 2 notebook](https://colab.research.google.com/github/cs432-websci-master/public/blob/main/432_PCI_Ch02.ipynb) 
