@@ -22,7 +22,7 @@ Public repo for homework assignments, tutorials, and associated files for [CS 43
 
 Module 2 
 * [Python Google Colab notebook](Mod_02_Python.ipynb) - [*direct link to notebook in Colab*](https://colab.research.google.com/github/cs432-websci-master/public/blob/main/Mod_02_Python.ipynb)
-* [Python Lab Exercises][Mod_02_lab.ipynb] - [*direct link to notebook in Colab*](https://colab.research.google.com/github/cs432-websci-master/public/blob/main/Mod_02_lab.ipynb)
+* [Python Lab Exercises](Mod_02_lab.ipynb) - [*direct link to notebook in Colab*](https://colab.research.google.com/github/cs432-websci-master/public/blob/main/Mod_02_lab.ipynb)
 
 Module 3
 * [InfoVis in R Google Colab notebook](Mod_03_InfoVis_R.ipynb) - [*direct link to notebook in Colab*](https://colab.research.google.com/github/cs432-websci-master/public/blob/main/Mod_03_InfoVis_R.ipynb)
