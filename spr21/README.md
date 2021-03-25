@@ -18,6 +18,8 @@ Public repo for homework assignments, tutorials, and associated files for [CS 43
 
 [HW6](HW6.md) - Analyzing Disinformation Domains, due Apr 4, Week 12
 
+[HW7](HW7.md) - Recommendation Systems, due Apr 11, Week 13
+
 ## Tutorials / Lab Exercises
 
 Module 2 
