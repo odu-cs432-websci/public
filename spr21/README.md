@@ -20,6 +20,8 @@ Public repo for homework assignments, tutorials, and associated files for [CS 43
 
 [HW7](HW7.md) - Recommendation Systems, due Apr 11, Week 13
 
+[HW8](HW8.md) - Clustering, due Apr 18, Week 14
+
 ## Tutorials / Lab Exercises
 
 Module 2 
