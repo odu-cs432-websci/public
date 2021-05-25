@@ -22,6 +22,8 @@ Public repo for homework assignments, tutorials, and associated files for [CS 43
 
 [HW8](HW8.md) - Clustering, due Apr 18, Week 14
 
+[HW9](HW9.md) - Email Classification, due Apr 28, Week 15
+
 ## Tutorials / Lab Exercises
 
 Module 2 
