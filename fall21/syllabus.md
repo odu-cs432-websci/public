@@ -53,8 +53,6 @@ Prerequisites: Standing as an undergraduate senior, graduate student, or approva
 
 We will be using Python this semester. You are not required to know Python ahead of time, but since you are required to have previous programming experience, I expect you to be able to pick up the syntax quickly. If you are unfamiliar with Python, I strongly suggest that you spend a bit of time with it before the semester begins. Here are some good Intro to Python resources:
 
-***Add links***
-
 * [Introduction to Python](http://introtopython.org/)
 * [CS 1110: Introduction to Computing Using Python](http://www.cs.cornell.edu/courses/cs1110/2012fa/) (Cornell University) 
 * [A Gentle Introduction to Programming Using Python](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/lectures/) (MIT)
