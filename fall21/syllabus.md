@@ -8,6 +8,12 @@ The Web has fundamentally changed how we learn, play, communicate, and work. Its
 
 **Prerequisites:** A grade of C or better in CS 361 and CS 330.
 
+## Instructor Contact and Office Hours
+
+Dr. Michele Weigle: mweigle at cs.odu.edu, <https://www.cs.odu.edu/~mweigle/>
+
+My office hours will be Tue 11a-12:30p and Thu 4:30-6p, or by appointment. All office hours will be held via Zoom (see Blackboard for the link to the Zoom meeting room). Students will be placed into the waiting room if I am already meeting with another student. If you cannot attend during regular office hours, please contact me to set up an alternate appointment time.
+
 ## Course Objectives
 
 After completing this course, you should be able to do the following:
@@ -39,19 +45,15 @@ CS 532 (graduate) sections:
 * CRN 20634 - WEB7 (in the US, but outside of Virginia)
 * CRN 20635 - WEB8 (outside of the US)
 
-Instructor Contact and Office Hours
-
-Dr. Michele Weigle: mweigle at cs.odu.edu, https://www.cs.odu.edu/~mweigle/
-
-My office hours will be *TBA*, or by appointment. All office hours will be held via Zoom (see Blackboard for the link to the Zoom meeting room). Students will be placed into the waiting room if I am already meeting with another student. If you cannot attend during regular office hours, please contact me to set up an alternate appointment time.
-
 ## Requirements
 
 ### Prerequisites
 
 Prerequisites: Standing as an undergraduate senior, graduate student, or approval from the instructor. Undergraduates should have a grade of C or better in CS 361 and CS 330.
 
-We will be using Python this semester. You are not required to know Python ahead of time, but since you are required to have previous programming experience, I expect you to be able to pick up the syntax quickly. If you are unfamiliar with Python, I strongly suggest that you spend a bit of time with it before the semester begins. Here are some good Intro to Python resources:
+We will be using Python this semester. You are not required to know Python ahead of time, but since *you are required to have previous programming experience*, I expect you to be able to pick up the syntax quickly. If you are unfamiliar with Python, I strongly suggest that you spend a bit of time with it before the semester begins. 
+
+Here are some good Intro to Python resources:
 
 * [Introduction to Python](http://introtopython.org/)
 * [CS 1110: Introduction to Computing Using Python](http://www.cs.cornell.edu/courses/cs1110/2012fa/) (Cornell University) 
@@ -88,7 +90,7 @@ There will be a total of 100 points available for the semester.
 
 Your grade in this class will be based on the following components:
 
-**Learning Checks** - 5 points
+**Learning Checks (LC)** - 5 points
 
 * Preparation for the week's topic
 * Learning Checks released via Blackboard on Saturdays and due on Fridays
@@ -98,7 +100,7 @@ Your grade in this class will be based on the following components:
 **Online Discussion** - 5 points
 
 * Class discussion based on the week's topic or current events.
-* Discussion Question released via Piazza on Saturdays. Your initial response is due on Fridays and a follow-up to at least one classmate's posting is due on Sundays.
+* The Discussion Question (DQ) will be released on Saturdays. Your initial response is due on Fridays and a follow-up to at least one classmate's posting is due on Sundays.
 * Full credit will be awarded only if all Discussion Questions have been answered on time and follow-ups have been posted on time in more than half of the weeks (so 8 follow-ups if we have 14 weeks of discussion questions).
 
 **Homework (HW)** - 90 points
@@ -112,7 +114,7 @@ Your grade in this class will be based on the following components:
   * many homework assignments will have extra credit opportunities
 * All work must be your own. You may use resources on the Internet for reference, but you must not copy large sections of code. If you use online resources, you must cite your sources (including URL). Group work on HW assignments is not acceptable.
 
-*There is no mid-term or final exam*
+*There is no mid-term or final exam.*
 
 ### Grading Scale
 
@@ -148,7 +150,7 @@ Any assignment submitted after its deadline is considered late. Late assignments
 
 ## Summary Schedule
 
-*Note: This is a tentative schedule and may change during the semester. The complete schedule with assignments and due dates is posted on Blackboard.*
+*Note: This is a tentative schedule and may change during the semester. The complete schedule with assignments and due dates will be posted on Blackboard.*
 
 Typical weekly schedule:
 
@@ -182,8 +184,8 @@ Typical weekly schedule:
 
 * All things HTTP - [CS 531 - Web Server Design](https://cs531-f19.github.io/)
 * Information retrieval, metadata - [CS 834 - Intro to Information Retrieval](https://phonedude.github.io/cs834-f16/)
-* Visualization, Analytics - [CS 625 - Data Visualization](https://www.cs.odu.edu/~mweigle/CS625-F20/), [CS 725/825 - Information Visualization](https://www.cs.odu.edu/~mweigle/CS725-S21/)
-* Web programming, LAMP - [CS 418/518 - Web Programming](http://www.cs.odu.edu/~jbrunelle/cs518/)
+* Visualization, Analytics - [CS 625 - Data Visualization](https://web.archive.org/web/20201124115631/https://www.cs.odu.edu/~mweigle/CS625-F20/Home), [CS 725/825 - Information Visualization](https://web.archive.org/web/20210130204513/https://www.cs.odu.edu/~mweigle/CS725-S21/Home)
+* Web programming, LAMP - [CS 418/518 - Web Programming](https://fanchyna.wixsite.com/jianwu/cs418-518-fall2019)
 * Data science - [CS 620 - Intro to Data Science](https://www.cs.odu.edu/~sampath/courses/f19/cs620/)
 
 ## Course History
@@ -192,13 +194,13 @@ This course at ODU was originally developed by [Dr. Michael Nelson](https://www.
 
 ## Course Policies
 
-### Email/Piazza
+### Email/Blackboard
 
-Each student must check the class Piazza site and email daily. You should use Piazza to ask and answer general course-related questions. I will also use this to notify you about important updates (assignment deadline changes, office hours cancellations, etc.).
+Each student must check email and the class Blackboard site daily. You should use our class Blackboard Discussion Board to ask and answer general course-related questions. I will use Blackboard Announcements to notify you about important updates (assignment deadline changes, office hours cancellations, etc.).
 
 ### Participation
 
-Since this is an online class, it is essential that you regularly stay involved in class activities. This includes checking the class website and Piazza for announcements, submitting assignments on time, and responding to discussion posts in a timely manner.
+Since this is an online class, it is essential that you regularly stay involved in class activities. This includes checking the class Blackboard for announcements, submitting assignments on time, and responding to discussion posts in a timely manner.
 
 ### Make-up Work
 
@@ -212,7 +214,7 @@ Students are encouraged to self-disclose disabilities that have been verified by
 
 ### Seeking Help
 
-The course Blackboard site should be your first reference for questions about the class. If you have questions about course requirements or materials, post questions using the class Piazza site. For extra help, attend office hours.
+The course Blackboard site should be your first reference for questions about the class. If you have questions about course requirements or materials, post questions using the class Blackboard Discussion Board. For extra help, attend office hours.
 
 ## Academic Integrity
 
