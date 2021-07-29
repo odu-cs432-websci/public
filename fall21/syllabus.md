@@ -1,5 +1,7 @@
 # CS 432/532, Fall 2021 Syllabus
 
+[Printable PDF version](syllabus.pdf)
+
 ## Course Overview
 
 The Web has fundamentally changed how we learn, play, communicate, and work. Its influence has become so monumental that it has given birth to a new science: Web Science, or the science of decentralized information structures. Although Web Science is interdisciplinary by nature, this course will be focusing mainly on the computing aspects of the Web.
