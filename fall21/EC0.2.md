@@ -14,7 +14,13 @@ MATH 212
 MATH 32
 ```
 
-Execute each of the following commands and save its output. Explain in words what the command has done:
+For each of the commands below, do the following:
+
+* execute the command
+* take a screenshot of (or copy/paste) the command and its output into a document
+* write a sentence that describes what the command did
+
+Commands:
 
 1. `wc -l test.txt`
 1. `echo "CS 800" >> test.txt; cat test.txt`
@@ -24,5 +30,7 @@ Execute each of the following commands and save its output. Explain in words wha
 1. `sort -k2 test.txt`
 1. `sort -k2 -n test.txt`
 1. `sort test.txt | uniq -c`
+
+
 
 For more information, see ["Redirection and Pipes"](https://www.cs.odu.edu/~zeil/cs252/latest/Public/redirection/index.html).  For information on the Unix commands, you can use the `man` command (ex: `man grep`) to display the manual page or do a web search for the command.
