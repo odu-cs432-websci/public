@@ -1,6 +1,6 @@
 # CS 432/532, Fall 2021 Syllabus
 
-[Download printable PDF version](https://github.com/odu-cs432-websci/public/raw/main/fall21/syllabus.pdf)
+[Jump to Summary Schedule](#summary-schedule) | [Download printable PDF version](https://github.com/odu-cs432-websci/public/raw/main/fall21/syllabus.pdf)
 
 ## Course Overview
 
