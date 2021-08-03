@@ -6,7 +6,7 @@
 
 The Web has fundamentally changed how we learn, play, communicate, and work. Its influence has become so monumental that it has given birth to a new science: Web Science, or the science of decentralized information structures. Although Web Science is interdisciplinary by nature, this course will be focusing mainly on the computing aspects of the Web.
 
-**Catalog Description:** Provides an overview of the World Wide Web and associated decentralized information structures, focusing mainly on the computing aspects of the Web: how it works, how it is used, and how it can be analyzed. Students will examine a number of topics including: web architecture, web characterization and analysis, web archiving, Web 2.0, social networks, collective intelligence, search engines, web mining, information diffusion on the web, and the Semantic Web. 
+**Catalog Description:** Provides an overview of the World Wide Web and associated decentralized information structures, focusing mainly on the computing aspects of the Web: how it works, how it is used, and how it can be analyzed. Students will examine a number of topics including: web architecture, web characterization and analysis, web archiving, Web 2.0, social networks, collective intelligence, search engines, web mining, information diffusion on the web, and the Semantic Web.
 
 **Prerequisites:** A grade of C or better in CS 361 and CS 330.
 
@@ -19,6 +19,7 @@ My office hours will be Tue 11a-12:30p and Thu 4:30-6p, or by appointment. All o
 ## Course Objectives
 
 After completing this course, you should be able to do the following:
+
 * Explain the interdisciplinary nature of web science.
 * Explain the main components of web architecture.
 * Explain how search engines index and rank webpages given a query.
@@ -53,12 +54,12 @@ CS 532 (graduate) sections:
 
 Prerequisites: Standing as an undergraduate senior, graduate student, or approval from the instructor. Undergraduates should have a grade of C or better in CS 361 and CS 330.
 
-We will be using Python this semester. You are not required to know Python ahead of time, but since *you are required to have previous programming experience*, I expect you to be able to pick up the syntax quickly. If you are unfamiliar with Python, I strongly suggest that you spend a bit of time with it before the semester begins. 
+We will be using Python this semester. You are not required to know Python ahead of time, but since *you are required to have previous programming experience*, I expect you to be able to pick up the syntax quickly. If you are unfamiliar with Python, I strongly suggest that you spend a bit of time with it before the semester begins.
 
 Here are some good Intro to Python resources:
 
 * [Introduction to Python](http://introtopython.org/)
-* [CS 1110: Introduction to Computing Using Python](http://www.cs.cornell.edu/courses/cs1110/2012fa/) (Cornell University) 
+* [CS 1110: Introduction to Computing Using Python](http://www.cs.cornell.edu/courses/cs1110/2012fa/) (Cornell University)
 * [A Gentle Introduction to Programming Using Python](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/lectures/) (MIT)
 * [Python Track: Introduction](http://courses.cms.caltech.edu/cs11/material/python/index.html) (Cal Tech)
 * [Python in One Easy Lesson](http://www-cs-faculty.stanford.edu/~nick/python-in-one-easy-lesson/), Nick Parlante
@@ -67,7 +68,7 @@ Here are some good Intro to Python resources:
 
 There is no required textbook, but here is a list of recommended books:
 
-* [*Python in a Nutshell*](https://www.oreilly.com/library/view/python-in-a/0596001886/) - 3rd edition available [via ODU](https://go.oreilly.com/old-dominion-university//library/view/python-in-a/9781491913833/) 
+* [*Python in a Nutshell*](https://www.oreilly.com/library/view/python-in-a/0596001886/) - 3rd edition available [via ODU](https://go.oreilly.com/old-dominion-university//library/view/python-in-a/9781491913833/)
   * mentioned in Module 2
 * [*Learning Python*](https://www.oreilly.com/library/view/learning-python-5th/9781449355722/) - 5th edition available [via ODU](https://go.oreilly.com/old-dominion-university/library/view/learning-python-5th/9781449355722/)
   * mentioned in Module 2
@@ -78,9 +79,9 @@ There is no required textbook, but here is a list of recommended books:
 * [*Introduction to Information Retrieval*](https://nlp.stanford.edu/IR-book/) - pdf available
   * used in Module 6
 * [*Networks, Crowds, and Markets: Reasoning About a Highly Connected World*](http://www.cs.cornell.edu/home/kleinber/networks-book/) - preprint available
-  * used in Modules 7, 8 
+  * used in Modules 7, 8
 * [*Programming Collective Intelligence*](https://www.oreilly.com/library/view/programming-collective-intelligence/9780596529321/) - available [via ODU](https://go.oreilly.com/old-dominion-university/library/view/programming-collective-intelligence/9780596529321/)
-  * used in Modules 11-14 
+  * used in Modules 11-14
 * [*Speech and Language Processing*](https://web.stanford.edu/~jurafsky/slp3/) - pdf available
   * mentioned in Modules 2, 6, 13
 
@@ -126,9 +127,9 @@ The grading scale for undergraduate students (CS 432) is as follows:
 | --- | --- | --- | --- | --- |
 | 100-92 | A | | 77-72 | C |
 | 91-90 | A- | | 71-70 | C- |
-| 89-87	| B+ | | 69-67 | D+ |
-| 86-82	| B	| | 66-62 | D |
-| 81-80	| B- | | 61-60 | D- |
+| 89-87 | B+ | | 69-67 | D+ |
+| 86-82 | B| | 66-62 | D |
+| 81-80 | B- | | 61-60 | D- |
 | 79-77 | C+ | | 59-00 | F |
 
 The grading scale for graduate students (CS 532) is as follows:
@@ -137,9 +138,9 @@ The grading scale for graduate students (CS 532) is as follows:
 | --- | --- | --- | --- | --- |
 | 100-94 | A | | 79-78 | C+ |
 | 93-90 | A- | | 77-74 | C |
-| 89-88	| B+ | | 73-70 | C- |
-| 87-84	| B	| | 69-0 | F|
-| 83-80	| B- | |  |  |
+| 89-88 | B+ | | 73-70 | C- |
+| 87-84 | B | | 69-0 | F|
+| 83-80 | B- | |  |  |
 
 ### Late Assignments
 
@@ -164,23 +165,22 @@ Typical weekly schedule:
 
 |Week |Week Start Date|Topic|
 |---|---|---|
-|1|	Aug 28|	Introduction to Web Science and Web Architecture
-|2|	Sep 4|	Introduction to Python
-|3|	Sep 11|	Introduction to Info Vis with R, Python
-|4|	Sep 18	|Measuring the Web
-|5|	Sep 25|	Archiving the Web
-|6|	Oct 2|	Searching the Web
-| | Oct 9|	**NO CLASS - Fall Break**
-|7|	Oct 16|	Social Networks
-|8|	Oct 23|	Selection and Social Influence
-|9|	Oct 30|	Visualizing Social Networks
-|10|	Nov 6|	Disinformation
-|11|	Nov 13|	Collective Intelligence and Recommender Systems
-|12|	Nov 20|	Clustering Algorithms<br/>**Nov 24-28 - Thanksgiving Break**|
-|13|	Mon, Nov 29|	Document Filtering (Classification)
-|14|	Dec 3|	kNN and Algorithm Summary
-|| Fri, Dec 10|	*last day of classes*
-
+|1|Aug 28|Introduction to Web Science and Web Architecture
+|2|Sep 4|Introduction to Python
+|3|Sep 11|Introduction to Info Vis with R, Python
+|4|Sep 18|Measuring the Web
+|5|Sep 25|Archiving the Web
+|6|Oct 2|Searching the Web
+| | Oct 9|**NO CLASS - Fall Break**
+|7|Oct 16|Social Networks
+|8|Oct 23|Selection and Social Influence
+|9|Oct 30|Visualizing Social Networks
+|10|Nov 6|Disinformation
+|11|Nov 13|Collective Intelligence and Recommender Systems
+|12|Nov 20|Clustering Algorithms<br/>**Nov 24-28 - Thanksgiving Break**|
+|13|Mon, Nov 29|Document Filtering (Classification)
+|14|Dec 3|kNN and Algorithm Summary
+|| Fri, Dec 10|*last day of classes*
 
 ## Related Courses
 
@@ -220,7 +220,7 @@ The course Blackboard site should be your first reference for questions about th
 
 ## Academic Integrity
 
-Old Dominion University is committed to students' personal and academic success. In order to achieve this vision, students, faculty, and staff work together to create an environment that provides the best opportunity for academic inquiry and learning. All students must be honest and forthright in their academic studies. Your work in this course and classroom behavior must align with the expectations outlined in the Code of Student Conduct, which can be found at https://www.odu.edu/oscai.
+Old Dominion University is committed to students' personal and academic success. In order to achieve this vision, students, faculty, and staff work together to create an environment that provides the best opportunity for academic inquiry and learning. All students must be honest and forthright in their academic studies. Your work in this course and classroom behavior must align with the expectations outlined in the Code of Student Conduct, which can be found at <https://www.odu.edu/oscai>.
 
 The following behaviors along with classroom disruptions violate this policy, corrupt the educational process, and will not be tolerated.
 
