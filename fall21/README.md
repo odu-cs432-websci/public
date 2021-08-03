@@ -4,4 +4,7 @@ Public repo for homework assignments, tutorials, and associated files for [CS 43
 
 ## Assignments
 
+[EC0 - Getting Started](getting-started/README.md)
+
 ## Tutorials / Lab Exercises
+
