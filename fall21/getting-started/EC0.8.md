@@ -1,6 +1,6 @@
-# Extra Credit (EC) 0.8 - Memgator
+# Extra Credit (EC) 0.8 - MemGator
 
-Download and install a local version of Memgator
+Download and install a local version of MemGator
 
 * Go to the [Releases page](https://github.com/oduwsdl/MemGator/releases) in the repository
 * Scroll down to the "Assets" section.  Click the triangle icon to expand the list.  Choose the executable that matches your OS.
