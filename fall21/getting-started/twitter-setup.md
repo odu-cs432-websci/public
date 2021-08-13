@@ -39,3 +39,5 @@ Here are a few helpful resources that you'll want to be familiar with for assign
 [Twitter tweet object format](https://developer.twitter.com/en/docs/twitter-api/data-dictionary/object-model/tweet)
 
 [Python examples using twarc2 API](https://github.com/twitterdev/getting-started-with-the-twitter-api-v2-for-academic-research/blob/main/modules/6b-labs-code-standard-python.md)
+
+[Twitter APIv2 Rate Limits](https://developer.twitter.com/en/docs/twitter-api/rate-limits#v2-limits) - look at the App rate limit since we're using bearer token authentication
