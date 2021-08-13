@@ -1,5 +1,7 @@
 # Twitter, twarc Setup
 
+## Setup Steps
+
 There are several steps that need to be completed before you can use twarc and the Twitter API.  These are based on the [Twitter Developer Access page](https://twarc-project.readthedocs.io/en/latest/twitter-developer-access/) from the twarc documentation:
 
 [Step 0: Have a Twitter account](https://twarc-project.readthedocs.io/en/latest/twitter-developer-access/#step-0-have-a-twitter-account-in-good-standing)
@@ -27,3 +29,13 @@ Using the keys that you obtained in Step 3, configure twarc with `twarc2 configu
 * Answer `y` to the question `(Optional) Add API keys and secrets for user mode authentication [y or n]?` and enter the API key and secret you saved in Step 3.
 * If you have already generated (and saved) the "Access Token and Secret" (different from your API Key and Secret), answer `2` to the question `How would you like twarc to obtain your user keys?`. Otherwise, answer `1` and twarc will walk you through the process.
 * Note the file where twarc reports your keys have been written.
+
+## Resources
+
+Here are a few helpful resources that you'll want to be familiar with for assignments this semester.
+
+[twarc2 API documentation](https://twarc-project.readthedocs.io/en/latest/api/client2/)
+
+[Twitter tweet object format](https://developer.twitter.com/en/docs/twitter-api/data-dictionary/object-model/tweet)
+
+[Python examples using twarc2 API](https://github.com/twitterdev/getting-started-with-the-twitter-api-v2-for-academic-research/blob/main/modules/6b-labs-code-standard-python.md)
