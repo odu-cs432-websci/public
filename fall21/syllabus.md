@@ -14,7 +14,7 @@ The Web has fundamentally changed how we learn, play, communicate, and work. Its
 
 Dr. Michele Weigle: mweigle at cs.odu.edu, <https://www.cs.odu.edu/~mweigle/>
 
-My office hours will be Tue 11a-12:30p and Thu 5-6:30p, or by appointment. All office hours will be held via Zoom (see Blackboard for the link to the Zoom meeting room). Students will be placed into the waiting room if I am already meeting with another student. If you cannot attend during regular office hours, please contact me to set up an alternate appointment time.
+My office hours will be Tue 11a-12:30p and Wed 5-6:30p, or by appointment. All office hours will be held via Zoom (see Blackboard for the link to the Zoom meeting room). Students will be placed into the waiting room if I am already meeting with another student. If you cannot attend during regular office hours, please contact me to set up an alternate appointment time.
 
 ## Course Objectives
 
