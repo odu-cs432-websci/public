@@ -238,3 +238,9 @@ Students may still provide legitimate assistance to one another. You are encoura
 All students are responsible for knowing the rules. If you are unclear about whether a certain activity is allowed or not, please contact the instructor.
 
 More information on academic integrity is available on the ODU-CS [academic integrity page](https://graduate.cs.odu.edu/resources/academic-integrity).
+
+## Statement from ODU Counseling Services
+
+ODU’s [Office of Counseling Services](http://www.odu.edu/counselingservices) (OCS, 1526 Webb University Center) is a university agency with competent, diverse, and multidisciplinary professional staff. We are committed to supporting the emotional well-being, social development, and academic progress of all students at Old Dominion University. 
+ 
+College life can be a wonderful time of self-discovery, but for many, it is also a time when the awareness of mental health conditions increases. OCS services are available to assist with addressing mental health concerns that a student may be experiencing. You can learn more about the broad range of confidential mental health services available on campus via our website at http://www.odu.edu/counselingservices. All services are free to ODU students.
