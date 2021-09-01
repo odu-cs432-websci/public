@@ -1,6 +1,6 @@
 # Extra Credit (EC) 0.2 - ODU-CS Linux
 
-Login to the [Linux system at ODU-CS](https://systems.cs.odu.edu/Unix_and_Linux_Services).  Note that if you're off-campus, you will first need to login to the [CS VPN](https://gp.cs.odu.edu) (download the [GlobalProtect VPN Client](https://www.odu.edu/ts/software-services/vpnclient)).
+Login to the [Linux system at ODU-CS](https://systems.cs.odu.edu/s/c45e0si43bbo15sagmjg/wiki/d/c45ehqq43bbo15sagnd0/unixlinux-services).  Note that if you're off-campus, you will first need to login to the [CS VPN](https://gp.cs.odu.edu) (download the [GlobalProtect VPN Client](https://www.odu.edu/ts/software-services/vpnclient)).
 
 Create a directory for files for this course (name it whatever you wish, but something like `cs432` or `cs532` is probably a good idea). Change the permissions on this directory so that you are the only user who can read, write, or execute (view the contents) the directory (see ["Protection and Permission"](https://www.cs.odu.edu/~zeil/cs252/latest/Public/protection/index.html)).
 
