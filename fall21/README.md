@@ -11,7 +11,7 @@
 |Week |Week Start Date|Topic|Resources and Assignments|
 |---|---|---|---|
 |1|Aug 28|Introduction to Web Science and Web Architecture|[EC0](getting-started/README.md) - Getting Started
-|2|Sep 4|Introduction to Python
+|2|Sep 4|Introduction to Python|[Python Google Colab notebook](432_F21_Mod02_Python.ipynb)<br/>[Python lab exercises](432_F21_Mod02_lab.ipynb)<br/>[HW1](HW1.md) - Web Science Intro
 |3|Sep 11|Introduction to Info Vis with R, Python
 |4|Sep 18|Measuring the Web
 |5|Sep 25|Archiving the Web
