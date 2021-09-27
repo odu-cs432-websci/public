@@ -12,9 +12,9 @@
 |---|---|---|---|
 |1|Aug 28|Introduction to Web Science and Web Architecture|[EC0](getting-started/README.md) - Getting Started
 |2|Sep 4|Introduction to Python|[Python Google Colab notebook](432_F21_Mod02_Python.ipynb)<br/>[Python lab exercises](432_F21_Mod02_lab.ipynb)<br/>[HW1](HW1.md) - Web Science Intro
-|3|Sep 11|Introduction to Info Vis with R, Python
+|3|Sep 11|Introduction to Info Vis with R, Python|[InfoVis in R Colab notebook](432_F21_Mod03_InfoVis_R.ipynb)<br/>[InfoVis in Python Colab notebook](432_F21_Mod03_InfoVis_Python.ipynb)
 |4|Sep 18|Measuring the Web
-|5|Sep 25|Archiving the Web
+|5|Sep 25|Archiving the Web|[HW2](HW2.md) - Web Archiving
 |6|Oct 2|Searching the Web
 | | Oct 9|**NO CLASS - Fall Break**
 |7|Oct 16|Social Networks
