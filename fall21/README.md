@@ -17,7 +17,7 @@
 |5|Sep 25|Archiving the Web|[HW2](HW2.md) - Web Archiving|
 |6|Oct 2|Searching the Web|[HW3](HW3.md) - Ranking Webpages|
 | | Oct 9|**NO CLASS - Fall Break**
-|7|Oct 16|Social Networks
+|7|Oct 16|Social Networks|[HW4](HW4.md) - Exploring Social Networks|
 |8|Oct 23|Selection and Social Influence
 |9|Oct 30|Visualizing Social Networks
 |10|Nov 6|Disinformation
