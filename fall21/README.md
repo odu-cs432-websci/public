@@ -19,8 +19,8 @@
 | | Oct 9|**NO CLASS - Fall Break**
 |7|Oct 16|Social Networks|[HW4](HW4.md) - Exploring Social Networks|
 |8|Oct 23|Selection and Social Influence
-|9|Oct 30|Visualizing Social Networks
-|10|Nov 6|Disinformation
+|9|Oct 30|Visualizing Social Networks|[NetworkX example Colab notebook](432_F21_NetworkX_example.ipynb)<br/>[d3 example at Observable](https://observablehq.com/@weiglemc/force-directed-layout-example-cs-432-532-spring-2020)<br/>[HW5](HW5.md) - Graph Partitioning|
+|10|Nov 6|Disinformation|[HW6](HW6.md) - Analyzing Disinformation Domains|
 |11|Nov 13|Collective Intelligence and Recommender Systems
 |12|Nov 20|Clustering Algorithms<br/>**Nov 24-28 - Thanksgiving Break**|
 |13|Mon, Nov 29|Document Filtering (Classification)
