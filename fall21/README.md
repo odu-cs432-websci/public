@@ -21,8 +21,8 @@
 |8|Oct 23|Selection and Social Influence
 |9|Oct 30|Visualizing Social Networks|[NetworkX example Colab notebook](432_F21_NetworkX_example.ipynb)<br/>[d3 example at Observable](https://observablehq.com/@weiglemc/force-directed-layout-example-cs-432-532-spring-2020)<br/>[HW5](HW5.md) - Graph Partitioning|
 |10|Nov 6|Disinformation|[HW6](HW6.md) - Analyzing Disinformation Domains|
-|11|Nov 13|Collective Intelligence and Recommender Systems|[PCI Ch2 (Recommender Systems) code examples](432_F21_PCI_Ch02.ipynb)</br>[HW7](HW7.md) - Recommender Systems|
-|12|Nov 20|Clustering Algorithms<br/>**Nov 24-28 - Thanksgiving Break**|
+|11|Nov 13|Collective Intelligence and Recommender Systems|[PCI Ch2 (Making Recommendations) code examples](432_F21_PCI_Ch02.ipynb)</br>[HW7](HW7.md) - Recommender Systems|
+|12|Nov 20|Clustering Algorithms<br/>**Nov 24-28 - Thanksgiving Break**|[PCI Ch3 (Discovering Groups) code examples](432_F21_PCI_Ch03.ipynb)</br>[HW8](HW8.md) - Recommender Systems|
 |13|Mon, Nov 29|Document Filtering (Classification)
 |14|Dec 3|kNN and Algorithm Summary
 || Fri, Dec 10|*last day of classes*
