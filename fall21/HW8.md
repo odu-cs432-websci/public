@@ -21,8 +21,8 @@ Before starting, review the [HW report guidelines](https://github.com/odu-cs432-
 
 ### Q1 - Find Popular Twitter Accounts
 Generate a list of 100 popular accounts on Twitter.  The accounts must be verified, have > 10,000 followers, and have > 5000 tweets.  For example:
-* https://twitter.com/weiglemc - not verified, 509 followers, 2813 tweets - *don't include*
-* https://twitter.com/WNBA - verified (blue checkmark), 739,600+ followers, 84,200+ tweets - *could include*
+* [weiglemc](https://twitter.com/weiglemc) - not verified, 509 followers, 2813 tweets - *don't include*
+* [wnba](https://twitter.com/WNBA) - verified (blue checkmark), 739,600+ followers, 84,200+ tweets - *could include*
 
 See [Twarc API user_lookup](https://twarc-project.readthedocs.io/en/latest/api/client/#twarc.client.Twarc.user_lookup), [GET users/lookup](https://developer.twitter.com/en/docs/accounts-and-users/follow-search-get-users/api-reference/get-users-lookup),  and [User object](https://developer.twitter.com/en/docs/twitter-api/data-dictionary/object-model/user) for details on obtaining this information for a set of accounts.  
 
