@@ -4,6 +4,8 @@
 
 from tweetparser import setup_api, parse
 import re
+import json
+from os.path import exists
 
 def getwordcounts(api, screen_name):
     '''
@@ -43,6 +45,25 @@ def getwords(tweet):
     # Filter for words between 3-15 characters, convert to lowercase, and return as a list
     return [word.lower() for word in words if (len(word) >= 3 and len(word) <= 15)]
 
+def writecounts(apcount, sumcounts, wordcounts):
+    # write these to files to read in later
+    with open('apcount.txt', 'w') as outf:
+        json.dump(apcount, outf)
+    with open ('sumcounts.txt', 'w') as outf:
+        json.dump(sumcounts, outf)
+    with open ('wordcounts.txt', 'w') as outf:
+        json.dump(wordcounts, outf)
+
+def readcounts():
+    # read these files and return the needed variables
+    with open ('apcount.txt', 'r') as inf:
+        apcount = json.load(inf)
+    with open ('sumcounts.txt', 'r') as inf:
+        sumcounts = json.load(inf)
+    with open ('wordcounts.txt', 'r') as inf:
+        wordcounts = json.load(inf)
+    return apcount, sumcounts, wordcounts
+
 #####
 # MAIN CODE STARTS HERE
 #####
@@ -57,21 +78,29 @@ sumcounts = {}    # words and frequency over all accounts (to determine most pop
 # list of screen names should be in 'accounts.txt', one per line
 accountlist = [line.strip() for line in open('accounts.txt')]
 
-for screen_name in accountlist:
-    try:
-        # get tweets, filter and count words
-        (user, wc) = getwordcounts(api, screen_name)
-        wordcounts[user] = wc
+# only request new tweets if the data hasn't previously been written out
+if (not exists("apcount.txt") or not exists("sumcounts.txt") or not exists("wordcounts.txt")):
+    for screen_name in accountlist:
+        try:
+            # get tweets, filter and count words
+            (user, wc) = getwordcounts(api, screen_name)
+            wordcounts[user] = wc
         
-        # count number of accounts each term appears in
-        for (word, count) in wc.items():
-            apcount.setdefault(word, 0)
-            sumcounts.setdefault(word, 0)
-            if count > 1:
-                apcount[word] += 1        # counting accounts with the word
-                sumcounts[word] += count  # summing total counts for the word
-    except:
-        print ('Failed to parse account %s' % screen_name)
+            # count number of accounts each term appears in
+            for (word, count) in wc.items():
+                apcount.setdefault(word, 0)
+                sumcounts.setdefault(word, 0)
+                if count > 1:
+                    apcount[word] += 1        # counting accounts with the word
+                    sumcounts[word] += count  # summing total counts for the word
+        except:
+            print ('Failed to parse account %s' % screen_name)
+
+    # write data out to files
+    writecounts(apcount, sumcounts, wordcounts)
+else:
+    # read the data from files (instead of requesting new tweets)
+    (apcount, sumcounts, wordcounts) = readcounts()
 
 # remove stopwords ("fake" way)
 wordlist = []
