@@ -90,7 +90,7 @@ You will likely want to use the BeautifulSoup Python library for this question. 
 
 ## Submission
 
-Make sure that you have committed and pushed your local repo to GitHub.  Your repo should include your report, images, and any code you developed to answer the questions.  Include "Ready to grade @weiglemc @pscheibl" in your final commit message. 
+Make sure that you have committed and pushed your local repo to GitHub.  Your repo should include your report, images, and any code you developed to answer the questions.  Include "Ready to grade @Faryaneh @Kritikagarg" in your final commit message. 
 
 Submit the URL of your *report* in Canvas:
 
