@@ -2,6 +2,8 @@
 
 # Homework 3 - Ranking Webpages
 **Due:** Sunday, October 30, 2022 by 11:59pm
+
+
 **This is an EXTRA CREDIT assignment**
 
 Read through the entire assignment before starting.  *Do not wait until the last minute to start working on it!* 
