@@ -1,7 +1,7 @@
 *This is the public posting of the assignment. See Canvas for the invite link to make your submission in your own repository in the class organization*
 
 # Homework 1 - Web Science Intro
-**Due:** Sunday, September 18, 2022 by 11:59pm
+**Due:** Sunday, January 29, 2023 by 11:59pm
  
 *Read the entire assignment before starting.*
 
@@ -84,18 +84,18 @@ Content Length: 18,995,885 bytes
 
 Show that the program works on 3 different URIs, one of which must be https://www.cs.odu.edu/~mweigle/courses/cs532/pdfs.html, which contains 8 links to PDFs. 
 * Many faculty members have a list of their publications in PDF form on their webpages.  You can discover ODU CS faculty webpages is through the [Research](https://odu.edu/compsci/research) page on the CS homepage. Click on a faculty member's name and that will take you to their ODU directory page.  Most of us have another link on that page that goes to our homepages where you can then find a list of publications that will often link to PDFs. 
-* Also, there are a set of pages linked on our [CS 432/532 Syllabus](https://github.com/odu-cs432-websci/public/blob/main/fall21/syllabus.md) that say "pdf available".  If you follow some of those links, you'll likely find a page that links to at least one PDF.
+* Also, there are a set of pages linked on our [CS 432/532 Syllabus](https://github.com/odu-cs432-websci/public/blob/main/spr23/syllabus.md) that say "pdf available".  If you follow some of those links, you'll likely find a page that links to at least one PDF.
 
 You will likely want to use the BeautifulSoup Python library for this question. On the ODU-CS Linux machines, you may need to run ``pip3 install beautifulsoup4`` before you can use BeautifulSoup, but you don't need root privileges to do this.
 
 ## Submission
 
-Make sure that you have committed and pushed your local repo to GitHub.  Your repo should include your report, images, and any code you developed to answer the questions.  Include "Ready to grade @Faryaneh @Kritikagarg" in your final commit message. 
+Make sure that you have committed and pushed your local repo to GitHub.  Your repo should include your report, images, and any code you developed to answer the questions.  Include "Ready to grade @Faryaneh" in your final commit message. 
 
 Submit the URL of your *report* in Canvas:
 
 * Click on HW1 under Assignments in Canvas
 * Under "Assignment Submission", click the "Write Submission" button.
 * Copy/paste the URL of your report into the edit box
-  * should be something like https<nolink>://github.com/odu-cs432-websci/fall22-hw1-*username*/blob/master/HW1-report.{pdf,md}
+  * should be something like https<nolink>://github.com/odu-cs432-websci/spring23-hw1-*username*/blob/master/HW1-report.{pdf,md}
 * Make sure to "Submit" your assignment.
