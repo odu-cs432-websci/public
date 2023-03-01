@@ -34,8 +34,8 @@ Upload an image to your GitHub repo and include it in place of the "Growth of th
 
 Replace the code in the `lstlisting` environment with another block of code.  You can use some Python code, or you can insert code from a different language -- just change the language indicated so that syntax highlighting still works properly.  Make sure to change the caption as needed.
 
-Edit Table 1 so that it matches the first 4 weeks of our class schedule, as given in our [syllabus](https://github.com/odu-cs432-websci/public/blob/main/fall22/syllabus.md#summary-schedule).
+Edit Table 1 so that it matches the first 4 weeks of our class schedule, as given in our [syllabus](https://github.com/odu-cs432-websci/public/blob/main/spr23/syllabus.md#summary-schedule).
 
 In the References section, replace the placeholder references with three webpages that you've visited so far this semester related to the class. These should include both the title of the webpage/article and the URL.
 
-Finally, make sure that your remote GitHub assignment repo contains your generated PDF, source LaTeX, and images needed to generate your report. In your final commit, use the commit message "@weiglemc ready to grade" and I'll get an email.
+Finally, make sure that your remote GitHub assignment repo contains your generated PDF, source LaTeX, and images needed to generate your report. In your final commit, use the commit message "@Faryaneh ready to grade" and I'll get an email.
