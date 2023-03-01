@@ -1,3 +1,4 @@
+
 *This is the public posting of the assignment. See Canvas for the invite link to make your submission in your own repository in the class organization*
 
 # Homework 4 - Exploring Social Networks
@@ -27,38 +28,6 @@ Create a graph with the number of friends that each of the user's friends has, s
 
 *Q: Does the friendship paradox hold for this user and their friends on Facebook?*
 
-### Q2. Friendship Paradox on Twitter
-
-Determine if the friendship paradox holds for your Twitter account. Since Twitter is a directed graph, use *followers* as the value you measure (i.e., "do your followers have more followers than you?").  
-
-If you have less than 50 followers on Twitter, then you can do the analysis for another Twitter account (e.g., my account is [Faryane](https://twitter.com/faryane/)) and substitute the user you pick for *you* in the questions below.
-
-*Q: What is the mean, standard deviation, and median of the number of followers that your followers have?*  
-
-*Q: Does the friendship paradox hold for you and your followers on Twitter?*
-
-You should use Twarc2 in Python to access the Twitter API to find a user's followers.  The code to access the Twitter API should be similar to [collect-tweets.py](https://github.com/odu-cs432-websci/public/blob/main/fall22/getting-started/collect-tweets.py) from EC0.7, so you can use that as a starting place.
-
-Other helpful references:
-* [Labs for the Standard Product Track in Python](https://github.com/twitterdev/getting-started-with-the-twitter-api-v2-for-academic-research/blob/main/modules/6b-labs-code-standard-python.md) - look at the section headings to find the appropriate part to read
-* [Twitter's User object model](https://developer.twitter.com/en/docs/twitter-api/data-dictionary/object-model/user) - explains the data structure returned from the Twitter API
-* [process-tweets.py](getting-started/process-tweets.py) - from EC0.7, shows examples of accessing different parts of the data structure returned from the Twitter API
-
-## Extra Credit
-
-### Q3. (*1 point*) 
-
-Repeat Q2, but change *followers* to *following*.  
-
-*Q: Are the people you are following following more people than you are?*
-
-### Q4. (*1 point*)
-
-Since Twitter is uni-directional, we can examine friendships, where someone you are following is also following you.
-
-*Q: How many friendships do you have on Twitter?*  
-
-List the usernames of those who have a bi-directional relationships with you. (If there are more than 20, put the list in a separate file in your repo and provide the filename in your report.)
 
 ## Submission
 

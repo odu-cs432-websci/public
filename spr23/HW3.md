@@ -1,6 +1,5 @@
 *This is the public posting of the assignment. See Canvas for the invite link to make your submission in your own repository in the class organization*
 
-
 # Homework 3 - Ranking Webpages
 **Due:** Sunday, March 12, 2023 by 11:59pm
 
