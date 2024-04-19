@@ -1,7 +1,9 @@
 # ODU CS 432/532 - Web Science 
 Repo for public release of assignments and tutorials, divided by semester
 
-[Spring 2024](https://github.com/odu-cs432-websci/public-spr24/README.md) - Nasreen Arif
+[CS 432/532 Web Science materials packaged for COVA-CCI](https://github.com/odu-cs432-websci/public-cova-cci/blob/main/README.md)
+
+[Spring 2024](https://github.com/odu-cs432-websci/public-spr24/blob/main/README.md) - Nasreen Arif
 
 [Spring 2023](spr23/README.md) - Dr. Faryaneh Poursardar
 
